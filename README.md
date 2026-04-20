@@ -8,6 +8,6 @@ Eu sou Clodoaldo Guarnieri, sou um programador Full Stack, atualmente estou apre
   - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
 [![Clodoaldo stats](https://github-readme-stats.vercel.app/api?username=clodoxxe)](https://github.com/anuraghazra/github-readme-stats) <br>
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=clodoxxe-github-username&style=flat-square)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clodoxxe)](https://github.com/anuraghazra/github-readme-stats)
